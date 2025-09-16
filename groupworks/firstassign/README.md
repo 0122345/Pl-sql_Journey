@@ -230,15 +230,15 @@ ORDER BY year DESC, semester;
 
 images:
 
-!['ifoto'](assets/first.png)
+!['ifoto'](./assets/fifth.png)
 
-!['ifoto'](assets/second.png)
+!['ifoto'](./assets/second.png)
 
-!['ifoto'](assets/third.png)
+!['ifoto'](./assets/third.png)
 
-!['ifoto'](assets/fourth.png)
+!['ifoto'](./assets/fourth.png)
 
-!['ifoto'](assets/fifth.png)
+!['ifoto'](./assets/fifth.png)
 
 
 ---
