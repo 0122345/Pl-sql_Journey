@@ -280,9 +280,9 @@ The solution provides a robust foundation for a student enrollment system that e
 **Date:** [15-sept-2025]  
 **Institution:** [AUCA]
 
-### For more info check out repo:
+### For more info check out repo
 
-click here  [git repo link](https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/report.md)
+click here  [git repo link](https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/README.md)
  or
-  https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/report.md
+  https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/README.md
 ---
