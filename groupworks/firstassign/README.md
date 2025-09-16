@@ -230,7 +230,16 @@ ORDER BY year DESC, semester;
 
 images:
 
-!['ifoto'](assets/image.png)
+!['ifoto'](assets/first.png)
+
+!['ifoto'](assets/second.png)
+
+!['ifoto'](assets/third.png)
+
+!['ifoto'](assets/fourth.png)
+
+!['ifoto'](assets/fifth.png)
+
 
 ---
 
@@ -252,8 +261,9 @@ The solution provides a robust foundation for a student enrollment system that e
 
 ## 📁 Project Files
 
-- `database_quiz_sql.sql` - Complete SQL implementation with all queries and data
+- `class.sql` - Complete SQL implementation with all queries and data
 - `README.md` - This comprehensive project documentation
+- `.gitgnore` - contains fotos I don't want to upload
 
 ## 👥 Group Members
 
@@ -272,6 +282,7 @@ The solution provides a robust foundation for a student enrollment system that e
 
 ### For more info check out repo:
 
-click here  [git repo link](https://github.com/0122345/plsq.git)
-
+click here  [git repo link](https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/report.md)
+ or
+  https://github.com/0122345/Pl-sql_Journey/blob/main/groupworks/firstassign/report.md
 ---
